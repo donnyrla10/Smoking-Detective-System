@@ -116,6 +116,8 @@
 - 로그 기록과 흡연자 감지 출력의 부정확성
 
 
+<br>
+
 ### [↪️ 데모 영상](https://github.com/donnyrla10/Smoking-Detective-System/tree/master/Project/Demo)
 
 <br>
